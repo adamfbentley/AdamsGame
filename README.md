@@ -1,8 +1,16 @@
 # Dark Souls-Style Action Game
 
-A 3D action game built in Unity featuring third-person combat, enemy AI, and responsive controls.
+A learning project to explore **C# and Unity game development**. Building a 3D action game from scratch to understand game architecture, real-time systems, and the Unity workflow.
 
-## Features
+## Learning Goals
+
+This project was built to gain hands-on experience with:
+- **C# in Unity** - MonoBehaviour lifecycle, coroutines, serialized fields
+- **Game architecture** - Component-based design, state management, event systems
+- **Real-time systems** - Physics, collision detection, frame-rate independent movement
+- **Unity Editor** - Scene setup, prefabs, animator controllers, input management
+
+## Features Implemented
 
 - **Third-Person Camera**: Smooth camera follow with mouse look and collision handling
 - **Combat System**: Light and heavy attacks with cooldowns, damage calculation, and knockback physics
